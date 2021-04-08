@@ -4,8 +4,7 @@
 
 #### ⚡ Key concepts: Remote Sensing, Google Earth Engine, Python
 
-- Recently, Brazil has faced a series of disasters that have caused immensurable impacts the environment and its biodiversity, as well as social and economic damage. Two recent examples, both of common origin, refer to the rupture of the ore rejection dams in Mariana and Brumadinho occurred in the years 2015 and 2019, respectively. Such events provoked a series of deaths as well as irreparable damage to society and the environment. Technological disasters like these motivate the development of strategies and tools capable of assisting in the systematic monitoring of areas that pose risks to society. In this context, Sensing
-Remote appears as an extremely useful technology in the monitoring process, since it allows for extensive analysis in space and in a multitemporal way.
+- Recently, Brazil has faced a series of disasters that have caused immensurable impacts the environment and its biodiversity, as well as social and economic damage. Two recent examples, both of common origin, refer to the rupture of the ore rejection dams in Mariana and Brumadinho occurred in the years 2015 and 2019, respectively. Such events provoked a series of deaths as well as irreparable damage to society and the environment. Technological disasters like these motivate the development of strategies and tools capable of assisting in the systematic monitoring of areas that pose risks to society. In this context, Remote Sensing appears as an extremely useful technology in the monitoring process, since it allows for extensive analysis in space and in a multitemporal way.
 
 - Still, in the scope of the development of monitoring tools, the techniques of Learning of
 Machine stands out with another component of great importance. When combined with the data obtained
